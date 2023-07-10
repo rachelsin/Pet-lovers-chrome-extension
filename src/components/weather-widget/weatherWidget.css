@@ -1,0 +1,16 @@
+.weather-widget {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+.weather-card {
+    width: 200px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 30px;
+    text-align: center;
+}

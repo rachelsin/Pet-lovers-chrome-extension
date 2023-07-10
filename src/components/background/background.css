@@ -1,0 +1,10 @@
+ .change-background {
+     position: absolute;
+     bottom: 0;
+     right: 0;
+ }
+
+ .background-image {
+     background-size: cover;
+     height: 100vh;
+ }
